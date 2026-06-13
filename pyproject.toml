@@ -8,6 +8,7 @@ dependencies = [
     "matplotlib", "seaborn",
     "mlflow",
     "jupyterlab",
+    "optuna",
 ]
 
 [build-system]
