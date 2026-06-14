@@ -1,0 +1,5 @@
+don't hand-engineer a feature that encodes the same conditional averaging the model performs natively
+
+what does your prediction system actually know at the moment it needs to score?
+
+hierarchical feature selection -> feature engineering where you build/select a feature from a set that abstracts signal up or down a sparsity-level, i.e. what predictive power can I buy with the sparsity that I have?
