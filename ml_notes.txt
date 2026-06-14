@@ -5,3 +5,5 @@ what does your prediction system actually know at the moment it needs to score?
 hierarchical feature selection -> feature engineering where you build/select a feature from a set that abstracts signal up or down a sparsity-level, i.e. what predictive power can I buy with the sparsity that I have?
 
 does the target vary across the categories by an amount that's large relative to the variation within them?
+
+A model that can't outperform "just guess the mean/median every time" is not a model — it's theater
